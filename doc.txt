@@ -1,0 +1,13 @@
+What?
+Groovy is an object-oriented scripting language for the JVM.
+It’s dynamic (like Python/JavaScript) but also supports static typing (like Java).
+Interoperates 100% with Java libraries.
+Often used for scripting, DSLs, automation, and frameworks like Grails.
+
+Concise Syntax (less boilerplate than Java).
+Dynamic typing (def) + Optional static typing (int, String).
+Closures (like lambdas in Java).
+Built-in support for Lists, Maps, Ranges, Regex.
+Metaprogramming: add methods/properties dynamically.
+Builders (e.g., XML, JSON).
+Great for scripting, testing, automation, and DSLs.
